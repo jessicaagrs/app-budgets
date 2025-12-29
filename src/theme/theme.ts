@@ -1,0 +1,22 @@
+export const theme = {
+  colors: {
+    purple_base: '#6A46EB',
+    white: '#ffffff',
+    gray_100: '#FAFAFA',
+    gray_200: '#F0F0F0',
+    gray_300: '#E6E5E5',
+    gray_400: '#A1A2A1',
+    gray_500: '#676767',
+    gray_600: '#4A4A4A',
+    gray_700: '#0F0F0F',
+    sucess_light: '#BFF7BE',
+    sucess_base: '#4BB84A',
+    sucess_dark: '#30752F',
+    info_light: '#CEEFFF',
+    info_base: '#2AA1D9',
+    info_dark: '#1D7096',
+    danger_light: '#FFD6D6',
+    danger_base: '#DB4D4D',
+    danger_dark: '#9E4949',
+  },
+};
