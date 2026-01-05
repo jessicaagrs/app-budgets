@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 16,
-    fontWeight: 700,
+    fontWeight: '700',
     lineHeight: 24,
     color: theme.colors.gray_700,
     maxWidth: 215,
@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
   },
   priceValue: {
     fontSize: 16,
-    fontWeight: 700,
+    fontWeight: '700',
     lineHeight: 24,
     color: theme.colors.gray_700,
   },

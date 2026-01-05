@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
   titleHeader: {
     fontSize: 14,
     lineHeight: 22,
-    fontWeight: 700,
+    fontWeight: '700',
   },
   modalBody: {
     padding: 20,
